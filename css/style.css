@@ -1,0 +1,11 @@
+h1, h3 {
+    background-color: palevioletred;
+}
+
+p{
+    color:salmon
+}
+
+h1 + h3{
+    color: blue
+}
